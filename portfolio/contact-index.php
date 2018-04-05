@@ -45,7 +45,7 @@ crossorigin="anonymous"></script>
                               <li><a href="index.php">Home</a></li>
                               <li><a href="skills.php">Skills</a></li>
                               <li><a href="projects.php">Projects</a></li>
-                              <li><a href="contact-index.php">Contact</a></li>
+                              <li><a href="contact-index.php">New user</a></li>
                         </ul>
                   </div>
             </nav>
@@ -110,7 +110,7 @@ crossorigin="anonymous"></script>
                         </div>
                         <div class="col-xs-12 col-sm-12">
                             <div class="contact-item">
-                                <button type="submit" class="btn btn-secondary" style="width:50%;" name="submit">SEND MESSAGE</button>
+                                <button type="submit" class="btn btn-secondary" style="width:50%;" name="submit">add</button>
                             </div>
                         </div>
                         </div>
